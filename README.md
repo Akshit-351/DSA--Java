@@ -10,7 +10,6 @@ This repository contains my Data Structures and Algorithms practice problems imp
 - Bit Manipulation
 
 ## Language Used
-- Java
-
+Java
 ## Purpose
-This repository is maintained for placement preparation and improving problem-solving skills.
+Placement preparation and strengthening problem-solving skills.
