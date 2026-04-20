@@ -4,7 +4,6 @@ public class PrintSubarrays {
     public static void printsubarrays(int[] arr) {
         int n = arr.length;
         int TotalSubarrays = 0;
-        int sum = 0;
         for (int start = 0; start < n; start++) {
             for (int end = start; end < n; end++) {
                 for (int k = start; k <= end; k++) {

@@ -25,7 +25,8 @@ public class MergeTwoSorted {
             c[k++] = b[j++];
         }
         for (int num:c){
-            System.out.print(num+" ");
+            System.out.print
+                    (num+" ");
         }
     }
 }
