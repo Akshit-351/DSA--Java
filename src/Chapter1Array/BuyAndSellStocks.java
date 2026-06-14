@@ -11,6 +11,7 @@ public class BuyAndSellStocks {
                 maxProfit= Math.max(maxProfit,profit);
             }else {
                 buyPrice = prices[i];
+
             }
         }
         return maxProfit;
