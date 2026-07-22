@@ -8,6 +8,11 @@ This repository contains my Data Structures and Algorithms practice problems imp
 - Basic Math
 - Oops
 - Bit Manipulation
+- Recursion
+- Stack
+- Linked List
+- Queues
+- Trees
 
 ## Language Used
 Java
